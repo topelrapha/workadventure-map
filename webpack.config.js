@@ -7,11 +7,11 @@ module.exports = {
     entry: './src/index.ts',
     devtool: 'inline-source-map',
     devServer: {
-        static: ['.'],
+        contentBase: '.',
         //host: '0.0.0.0',
         host: 'localhost',
         //sockPort: 80,
-        allowedHosts: "all",
+        disableHostCheck: true,
         headers: {
             "Access-Control-Allow-Origin": "*",
             "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, PATCH, OPTIONS",
