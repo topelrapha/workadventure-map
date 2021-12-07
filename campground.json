@@ -335,7 +335,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"\/\/wsl$\/Ubuntu-20.04\/home\/raphael\/development\/wsjrdp-workadventure\/floortileset.png",
+         "image":"floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -368,7 +368,7 @@
         {
          "columns":8,
          "firstgid":65,
-         "image":"\/\/wsl$\/Ubuntu-20.04\/home\/raphael\/development\/wsjrdp-workadventure\/jurte.png",
+         "image":"jurte.png",
          "imageheight":200,
          "imagewidth":266,
          "margin":0,
@@ -382,7 +382,7 @@
         {
          "columns":20,
          "firstgid":113,
-         "image":"\/\/wsl$\/Ubuntu-20.04\/home\/raphael\/development\/wsjrdp-workadventure\/campfire.png",
+         "image":"campfire.png",
          "imageheight":64,
          "imagewidth":640,
          "margin":0,
@@ -509,7 +509,7 @@
         {
          "columns":3,
          "firstgid":153,
-         "image":"\/\/wsl$\/Ubuntu-20.04\/home\/raphael\/development\/wsjrdp-workadventure\/danger-zone.png",
+         "image":"danger-zone.png",
          "imageheight":480,
          "imagewidth":96,
          "margin":0,
@@ -523,7 +523,7 @@
         {
          "columns":30,
          "firstgid":198,
-         "image":"\/\/wsl$\/Ubuntu-20.04\/home\/raphael\/development\/wsjrdp-workadventure\/hyptosis_til-art-batch-2.png",
+         "image":"hyptosis_til-art-batch-2.png",
          "imageheight":960,
          "imagewidth":960,
          "margin":0,
@@ -592,7 +592,7 @@
         {
          "columns":16,
          "firstgid":1098,
-         "image":"\/\/wsl$\/Ubuntu-20.04\/home\/raphael\/development\/wsjrdp-workadventure\/tilesets_deviant_milkian_1.png",
+         "image":"tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -606,7 +606,7 @@
         {
          "columns":8,
          "firstgid":1354,
-         "image":"\/\/wsl$\/Ubuntu-20.04\/home\/raphael\/development\/wsjrdp-workadventure\/maze.png",
+         "image":"maze.png",
          "imageheight":128,
          "imagewidth":256,
          "margin":0,
@@ -719,7 +719,7 @@
         {
          "columns":16,
          "firstgid":1386,
-         "image":"\/\/wsl$\/Ubuntu-20.04\/home\/raphael\/development\/wsjrdp-workadventure\/grass.png",
+         "image":"grass.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -850,7 +850,7 @@
         {
          "columns":2,
          "firstgid":1642,
-         "image":"\/\/wsl$\/Ubuntu-20.04\/home\/raphael\/development\/wsjrdp-workadventure\/badger.gif",
+         "image":"badger.gif",
          "imageheight":63,
          "imagewidth":74,
          "margin":0,
